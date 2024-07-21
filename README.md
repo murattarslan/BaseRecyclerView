@@ -1,5 +1,9 @@
 # BaseRecyclerView
-viewbinding kullanılan kapsamlı bir base recyclerview yapısı
+- adaptörünü ve viewholder objesini içerisinde barındıran, 
+- viewbinding kullanılan, 
+- drag-drop özelliği barındıran, 
+- sağa sola kaydırma aksiyonları eklenebilen
+kapsamlı bir base recyclerview yapısı
 
 ## Kaynak Kod
 
