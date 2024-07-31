@@ -7,7 +7,7 @@ kapsamlı bir base recyclerview yapısı
 
 ## Kaynak Kod
 
-```
+```kotlin
 abstract class BaseRecyclerView<T> @JvmOverloads constructor(
     context: Context,
     attrs: AttributeSet? = null,
@@ -167,7 +167,7 @@ abstract class BaseRecyclerView<T> @JvmOverloads constructor(
 
 
 ## Örnek Kullanım
-```
+```kotlin
 class OrderRecyclerView
 @JvmOverloads constructor(
     context: Context,
